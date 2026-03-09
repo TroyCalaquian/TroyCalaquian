@@ -3,6 +3,8 @@ I enjoy creating web applications using React, and love learning and using many 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4ojgzm94k9cf7fiklsehe12zl&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=4ojgzm94k9cf7fiklsehe12zl&redirect=true)
 
+Portolio (Coming soon!) | [LinkedIn](https://www.linkedin.com/in/troycalaquian/)
+
 
 <!---
 TroyCalaquian/TroyCalaquian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
