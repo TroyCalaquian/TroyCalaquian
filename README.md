@@ -1,6 +1,6 @@
-# Hi, I'm Troy 👋
+# Hi, I'm Troy!
 
-I'm a web developer who loves building clean, user-friendly applications with React and TypeScript, and learning new frameworks along the way. I'm a BCIT Computer Systems Technology graduate, currently looking for software developer and technical support roles.
+I'm a programmer who loves building clean, user-friendly applications with React and TypeScript, and learning new frameworks along the way. I'm a BCIT Computer Systems Technology graduate, currently looking for software developer and technical support roles.
 
 [Portfolio](https://troycalaquian.com) | [LinkedIn](https://www.linkedin.com/in/troycalaquian/)
 
@@ -12,8 +12,8 @@ I'm a web developer who loves building clean, user-friendly applications with Re
 
 ## Featured projects
 
-- **[Portfolio](https://troycalaquian.com)**: my personal site, built with React, TypeScript, Mantine, and GSAP. It has an interactive animated background, a terminal-style boot sequence, light and dark modes, and a blog.
-- **[Rhythm Game Info](https://github.com/TroyCalaquian/rhythm-game-info)** ([live site](https://warm-mooncake-33e06b.netlify.app/)): a searchable database of songs and charts from the rhythm game Chunithm, built with React, TypeScript, and Supabase.
+- **[Portfolio](https://troycalaquian.com)**: my personal site, built with React, TypeScript, Mantine, and GSAP. It has an interactive animated background, a terminal-style boot sequence, light and dark modes, and I'm currently working on adding a blog!
+- **[Rhythm Game Info](https://github.com/TroyCalaquian/rhythm-game-info)** ([live site](https://warm-mooncake-33e06b.netlify.app/)): a searchable database of songs and charts from the rhythm game Chunithm, built with React, TypeScript, and Supabase. I plan on updating the database more in the future.
 
 ## Outside of code
 
