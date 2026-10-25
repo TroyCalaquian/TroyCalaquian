@@ -3,7 +3,7 @@ I enjoy creating web applications using React, and love learning and using many 
 
 [Portolio](troycalaquian.com) | [LinkedIn](https://www.linkedin.com/in/troycalaquian/)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4ojgzm94k9cf7fiklsehe12zl&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4ojgzm94k9cf7fiklsehe12zl&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=4ojgzm94k9cf7fiklsehe12zl&redirect=true)
 
 
 
